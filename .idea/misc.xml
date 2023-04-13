@@ -5,6 +5,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Servionica/pom.xml" />
+        <option value="$PROJECT_DIR$/Servionica.RestAssured/pom.xml" />
+        <option value="$PROJECT_DIR$/Servionica.Selenide/pom.xml" />
+        <option value="$PROJECT_DIR$/Huawei/pom.xml" />
       </list>
     </option>
   </component>

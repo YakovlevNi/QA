@@ -7,9 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Selenide" />
+        <module name="Selenium" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Servionica" target="17" />
       <module name="Servionica.Selenide" target="17" />
     </bytecodeTargetLevel>
   </component>
