@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/QA.iml" filepath="$PROJECT_DIR$/.idea/QA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servionica/Selenium.iml" filepath="$PROJECT_DIR$/Servionica/Selenium.iml" />
     </modules>
   </component>
 </project>
