@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Selenide" />
         <module name="Selenium" />
+        <module name="Cucmber" />
         <module name="RestAssured" />
       </profile>
     </annotationProcessing>
