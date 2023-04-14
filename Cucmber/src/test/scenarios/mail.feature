@@ -1,4 +1,4 @@
-Feature: Sber testing
+Feature: Dr.Web doc testing
 
   Background: Я нахожусь на главной странице сайта
     Given Открываем сайт "https://www.drweb.ru/"
